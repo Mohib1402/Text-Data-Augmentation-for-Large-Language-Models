@@ -15,7 +15,7 @@ I wrote a blog post summarizing the 4 main families of data augmentation and how
 
 ### 3. Video Walkthrough
 I recorded a short explanation of the paper and the slides.
-* [Video]()
+* [Video](https://drive.google.com/file/d/1mtvGdfLOYl_p4Zu_rfw4FU6NAWNf-Khk/view?usp=sharing)
 
 ---
 
