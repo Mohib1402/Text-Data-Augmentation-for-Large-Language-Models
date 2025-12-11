@@ -21,3 +21,4 @@ I recorded a short explanation of the paper and the slides.
 
 ## 📚 Reference
 Chai, Y., Xie, H., & Qin, J. S. (2025). *Text Data Augmentation for Large Language Models: A Comprehensive Survey of Methods, Challenges, and Opportunities*. arXiv preprint arXiv:2501.18845.
+https://arxiv.org/pdf/2501.18845
