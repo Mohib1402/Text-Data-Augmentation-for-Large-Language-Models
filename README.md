@@ -17,6 +17,10 @@ I wrote a blog post summarizing the 4 main families of data augmentation and how
 I recorded a short explanation of the paper and the slides.
 * [Video](https://drive.google.com/file/d/1mtvGdfLOYl_p4Zu_rfw4FU6NAWNf-Khk/view?usp=sharing)
 
+### 4. Slideshare Link
+I published the presentation on Slideshare.
+* [Slideshare](https://www.slideshare.net/slideshow/fixing-not-enough-data-for-large-language-models/284631608)
+
 ---
 
 ## Reference
